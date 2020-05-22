@@ -1,2 +1,6 @@
 # BallSocketJoint
-Collaboration project between Phil and I
+
+Ideas for projects:
+  - Music collection program
+  - data collection programs?
+    + analyising programs
